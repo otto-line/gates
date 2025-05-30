@@ -1,10 +1,11 @@
+// vite.config.js
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/I-have-been-wondering-about-gates-since-I-left-mine-open-last-Wednesday/',
+  base: '/gates/',
   build: {
     outDir: 'dist',
-    emptyOutDir: true,
+    emptyOutDir: true
   },
-  publicDir: 'public',
+  publicDir: 'public'
 });

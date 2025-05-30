@@ -1,7 +1,7 @@
 {
   "name": "gates",
   "version": "1.0.0",
-  "homepage": "https://otto-line.github.io/I-have-been-wondering-about-gates-since-I-left-mine-open-last-Wednesday",
+  "homepage": "https://otto-line.github.io/gates",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
